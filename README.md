@@ -1,5 +1,4 @@
-# Homebridge-Synology-Diskstation
-[Homebridge in a Docker Container on the Synology Diskstation Guide](http://jensbouma.nl/hello-siri-turn-the-lights-on-the-siri-for-iot-bridge-running-on-a-synology-nas/)
+#[Homebridge in a Docker Container on the Synology Diskstation Guide](http://jensbouma.nl/hello-siri-turn-the-lights-on-the-siri-for-iot-bridge-running-on-a-synology-nas/)
 
 ![](http://jensbouma.nl/wp-content/uploads/2016/08/ios-badge-works-with-apple-homekit.png)
 
