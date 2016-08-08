@@ -29,6 +29,8 @@ Install Docker from the Package Manager on your Diskstation.
 ![](http://jensbouma.nl/wp-content/uploads/2016/08/Screen-Shot-2016-08-06-at-23.16.58.png)
 ![](http://jensbouma.nl/wp-content/uploads/2016/08/Screen-Shot-2016-08-06-at-23.16.40.png)
 
+There should be a homebridge device called 'Homebridge is Working"
+![](http://jensbouma.nl/wp-content/uploads/2016/08/IMG_6822.png)
 
 # Step 5
 * _ Rename install.sh > install.sh.installed if u don't want to wait every time the container runs.
